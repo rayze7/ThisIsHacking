@@ -1,3 +1,4 @@
-h1 {
-      color: blue;
+body {
+    background-color: black;
+    color: white; /* Opcional: Cambia el color del texto para que sea visible */
 }
