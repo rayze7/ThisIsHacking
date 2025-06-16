@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: white; /* Opcional: Cambia el color del texto para que sea visible */
 }
+
+.cabecera {
+    text-align: center;
+}
