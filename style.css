@@ -13,8 +13,6 @@ body {
     margin: 0 auto;     /* centra el bloque en la página */
     text-align: center;
     text-align: justify;
-    padding-left: 5vw;
-    padding-right: 5vw;
 }
 
 .enlace-azul {
