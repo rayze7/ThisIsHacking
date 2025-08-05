@@ -9,10 +9,16 @@ body {
 }
 
 .bloque {
-    width: 500px;       /* mismo ancho que la imagen */
     margin: 0 auto;     /* centra el bloque en la página */
-    text-align: center;
-    text-align: justify;
+	max-width: 70%;
+    text-align: center; 
+	text-align: justify;
+	padding-left: 5vw;
+	padding-right: 5vw;
+}
+
+.bloque img {
+  max-width: 40%;
 }
 
 .enlace-azul {
