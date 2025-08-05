@@ -10,13 +10,17 @@ body {
 
 .bloque {
     margin: 0 auto;     /* centra el bloque en la página */
-	max-width: 70%;
-    text-align: center; 
-	text-align: justify;
+	max-width: 70%; 
 	padding-left: 5vw;
 	padding-right: 5vw;
+	text-align: center;
+}
+
+.bloque p {
+    text-align: justify;
 }
 
 .enlace-azul {
   color: blue;
 }
+
