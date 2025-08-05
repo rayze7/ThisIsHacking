@@ -4,5 +4,13 @@ body {
 }
 
 .cabecera {
+    text-align: justify;
     text-align: center;
+}
+
+.bloque {
+    width: 500px;       /* mismo ancho que la imagen */
+    margin: 0 auto;     /* centra el bloque en la página */
+    text-align: center; 
+	text-align: justify;
 }
